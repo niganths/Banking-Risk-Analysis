@@ -14,6 +14,19 @@ A banking analytics project built using **Python and Power BI** to understand cu
 
 **Python | Pandas | NumPy | Matplotlib | Seaborn | Power BI | DAX | Excel**
 
+## Risk Analysis Results
+
+| Risk | Test / Criteria | Result |
+|---|---|---:|
+| Credit Risk | Loan ÷ Income > 10× | 321 customers |
+| Funding Risk | Loan ÷ Deposits > 5× | 230 customers |
+| Liquidity Risk | Debt ÷ Liquid Assets > 8× | 305 customers |
+| Concentrated Risk | Multiple exposure flags | 340 customers |
+| Under-classification (Rated Too Low) | Rating vs. Exposure | 247 customers |
+| Over-classification (Rated Too High) | Rating vs. Exposure | 388 customers |
+| Classification Mismatch | Mismatch Rate | 21.53% |
+| Data Integrity | Duplicate Client IDs | 59 IDs across 119 records |
+
 ### Dashboard Pages
 
 1. Executive Risk Overview
