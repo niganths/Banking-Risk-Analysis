@@ -21,7 +21,8 @@ A banking analytics project built using **Python and Power BI** to understand cu
 3. Risk Classification & Control Validation
 
 <img width="1207" height="681" alt="Screenshot 2026-10-28 211700" src="https://github.com/user-attachments/assets/e094cca8-97f6-4e83-aefc-fd5851db7e04" />
-
+<img width="1210" height="682" alt="Screenshot 2026-10-28 211712" src="https://github.com/user-attachments/assets/aec5c219-7e52-49c6-9f75-d65d4dbb797f" />
+<img width="1203" height="682" alt="Screenshot 2026-10-28 211723" src="https://github.com/user-attachments/assets/9e0a8849-04ed-4a94-bab2-e8479892d9b5" />
 
 ### Key Numbers
 
