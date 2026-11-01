@@ -20,6 +20,9 @@ A banking analytics project built using **Python and Power BI** to understand cu
 2. Credit & Exposure Risk Analysis
 3. Risk Classification & Control Validation
 
+<img width="1207" height="681" alt="Screenshot 2026-10-28 211700" src="https://github.com/user-attachments/assets/e094cca8-97f6-4e83-aefc-fd5851db7e04" />
+
+
 ### Key Numbers
 
 **3,000** Customers | **321** LTI Exceptions | **230** LTD Exceptions | **305** Debt-to-Liquid Exceptions
